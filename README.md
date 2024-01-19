@@ -1,3 +1,5 @@
+My Comments: In this lab activity, we were able to learn the steps for resolving merge conflicts. By completing these activites we gained a better understanding of how to create, edit, and resolve merge conflicts.
+
 <header>
 
 <!--
